@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
       	}
    
 	int fp1;
-	const int max = 1000;
+	const int max = 1000000;
 	int fp[max];
 	ssize_t num1;
 	ssize_t num2;
